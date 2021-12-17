@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Usuario>
+<h2>Listagem de Usuários</h2>
+<div>
+    <a class="btn btn-outline-secondary" href="@Url.Action("AddEdit","Usuarios")">Adicionar</a>
+</div>
+
+
+<table class="table  table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Gênero</th>
+            <th colspan="2">Perfis</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+
+        <tr id="item-@usuario.Id">
+            <td>@usuario.Nome</td>
+            <td>@usuario.Email</td>
+            <td>@usuario.Genero</td>
+            <td>
+           @* @string.Join(", ",usuario.Perfis.Select(x=>x.Nome))*@
+            </td>
+            <td>
+                <a class="btn btn-outline-success btn-sm" href="@Url.Action("AddEdit","Usuarios")/@usuario.Id">Editar</a>
+                <button class="btn btn-outline-danger btn-sm" onclick="excluir(@usuario.Id, '@usuario.Nome')">
+                    Excluir
+                </button>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>

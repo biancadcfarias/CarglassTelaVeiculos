@@ -1,0 +1,162 @@
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\appsettings.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.exe
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.deps.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.runtimeconfig.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.runtimeconfig.dev.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\ref\Fansoft.Store.UI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.Views.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.Views.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Data.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Data.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Domain.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.IoCDI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.AssemblyReference.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.AssemblyInfoInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.AssemblyInfo.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.CoreCompileInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorAssemblyInfo.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorAssemblyInfo.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\staticwebassets\Fansoft.Store.UI.StaticWebAssets.Manifest.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\staticwebassets\Fansoft.Store.UI.StaticWebAssets.xml
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\scopedcss\bundle\Fansoft.Store.UI.styles.css
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.TagHelpers.input.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.TagHelpers.output.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorCoreGenerate.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Categorias\AddEdit.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Produtos\AddEdit.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Shared\_menuPrincipal.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Usuarios\AddEdit.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorTargetAssemblyInfo.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorTargetAssemblyInfo.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.Views.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.CopyComplete
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\ref\Fansoft.Store.UI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.genruntimeconfig.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\appsettings.Development.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\appsettings.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.exe
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.deps.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.runtimeconfig.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.runtimeconfig.dev.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\ref\Fansoft.Store.UI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.Views.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.UI.Views.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Data.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Data.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.Domain.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\bin\Debug\net5.0\Fansoft.Store.IoCDI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.AssemblyReference.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.AssemblyInfoInputs.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.AssemblyInfo.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.CoreCompileInputs.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorAssemblyInfo.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorAssemblyInfo.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\staticwebassets\Fansoft.Store.UI.StaticWebAssets.Manifest.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\staticwebassets\Fansoft.Store.UI.StaticWebAssets.xml
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\scopedcss\bundle\Fansoft.Store.UI.styles.css
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.TagHelpers.input.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.TagHelpers.output.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorCoreGenerate.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Categorias\AddEdit.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Produtos\AddEdit.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Shared\_menuPrincipal.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Usuarios\AddEdit.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorTargetAssemblyInfo.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.RazorTargetAssemblyInfo.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.Views.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.csproj.CopyComplete
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\ref\Fansoft.Store.UI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.UI\obj\Debug\net5.0\Fansoft.Store.UI.genruntimeconfig.cache

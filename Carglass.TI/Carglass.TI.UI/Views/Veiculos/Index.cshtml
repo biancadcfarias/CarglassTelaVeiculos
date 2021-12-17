@@ -1,0 +1,98 @@
+﻿@model IEnumerable<Veiculo>
+<h2>Listagem</h2>
+
+<div style="margin-bottom:20px;">
+    <a href="/Veiculos/AddEdit" class="btn btn-outline-secondary">Adicionar Veículo</a>
+</div>
+
+
+<table class="table  table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>VehicleBrandId</th>
+            <th>VehicleTypeId</th>
+            <th>Name</th>
+            <th>Active</th>
+            <th>VehicleCode</th>
+            <th colspan="2">Marca</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var veiculo in Model)
+        {
+
+        <tr id="item-@veiculo.VehicleId">
+            <td>@veiculo.VehicleBrandId</td>
+            <td>@veiculo.VehicleTypeId</td>
+            <td>@veiculo.Name</td>
+            <td>@veiculo.Active</td>
+            <td>@veiculo.VehicleCode</td>
+            <td>@veiculo.Marca.Name</td>
+            <td>
+                <a class="btn btn-outline-success btn-sm" href="/Veiculos/AddEdit/@veiculo.VehicleId">Editar</a>
+                <button class="btn btn-outline-danger btn-sm" onclick="excluir(@veiculo.VehicleId, '@veiculo.Name')">
+                    Excluir
+                </button>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="excluirVeiculo">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Excluir Veiculo</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                Tem certeza que quer excluir o veiculo <strong><span id="veiculo-name"></span></strong>?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-danger" onclick="confirmar()">Confirmar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    <script>
+        let myModal = new bootstrap.Modal(document.getElementById('excluirVeiculo'), {
+            keyboard: false
+        });
+        let _id = 0;
+        function excluir(id, nome) {
+            _id = id;
+            document.querySelector("#veiculo-name").innerHTML = `<em>"${name}"</em>`;
+            myModal.show();
+        }
+
+        function confirmar() {
+
+            fetch('/veiculo/delete/' + _id, { method: 'Delete' })
+                .then(function (x) {
+                    console.log(x);
+                    myModal.hide();
+                    switch (x.status) {
+                        case 200:
+                            document.getElementById('item-' + _id).remove();
+                            toastr.success('Veículo excluído com sucesso', 'Excluir Veículo');
+                            break;
+                        case 400:
+                            console.log(xhr)
+                            toastr.error(x.responseText, 'Excluir Veiculo');
+                            break;
+                        default:
+                            toastr.error('Não foi possível excluir o veículo.<br>Verifique o log da aplicação.', 'Excluir Veículo');
+                    }});
+            }
+    </script>
+}

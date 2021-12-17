@@ -1,0 +1,34 @@
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.deps.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\ref\Fansoft.Store.IoCDI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Data.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Data.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Domain.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.AssemblyReference.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.AssemblyInfoInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.AssemblyInfo.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.CoreCompileInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.CopyComplete
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\ref\Fansoft.Store.IoCDI.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.deps.json
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\ref\Fansoft.Store.IoCDI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.IoCDI.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Data.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Data.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\bin\Debug\net5.0\Fansoft.Store.Domain.pdb
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.AssemblyReference.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.AssemblyInfoInputs.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.AssemblyInfo.cs
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.CoreCompileInputs.cache
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.csproj.CopyComplete
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\ref\Fansoft.Store.IoCDI.dll
+C:\Iago_Carglass\Fansoft.Store\Fansoft.Store.IoCDI\obj\Debug\net5.0\Fansoft.Store.IoCDI.pdb

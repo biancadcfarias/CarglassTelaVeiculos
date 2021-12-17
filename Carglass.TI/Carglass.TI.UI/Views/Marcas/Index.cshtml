@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Marca>
+<h2>Listagem</h2>
+
+<div>
+    <a href="/Marcas/AddEdit" class="btn btn-outline-secondary">Adicionar marca do veículo</a>
+</div>
+
+<div style="width:50%;margin-top:20px;">
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Id</th>
+                <th colspan="2">Marca</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var marca in Model)
+            {
+            <tr id="item-@marca.VehicleBrandId">
+                <td>@marca.VehicleBrandId</td>
+                <td>@marca.Name</td>
+                <td>@marca.Active</td>
+                <td>
+                    <a class="btn btn-outline-success btn-sm" href="/Marcas/AddEdit/@marca.VehicleBrandId">Editar</a>
+                    <button class="btn btn-outline-danger btn-sm" onclick="excluir(@marca.VehicleBrandId, '@marca.Name',@marca.Active)">
+                        Excluir
+                    </button>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="excluirMarca">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Excluir Marca</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+               Tem certeza que quer excluir a marca <strong><span id="marca-nome"></span></strong>?
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-danger" onclick="confirmar()">Confirmar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+<script>
+    let myModal = new bootstrap.Modal(document.getElementById('excluirMarca'), {
+        keyboard: false
+    });
+    let _id = 0;
+    function excluir(VehicleBrandId, Name) {
+
+        _id = id;
+        document.getElementById("marca-name").innerHTML = `<em>"${name}"</em>`;
+        myModal.show();
+    }
+
+    function confirmar() {
+
+        let xhr = new XMLHttpRequest();
+        xhr.open('delete', 'marcas/delete/' + _id);
+        xhr.onloadend = function () {
+            myModal.hide();
+            switch (xhr.status) {
+                case 200:
+                    document.getElementById('item-' + _id).remove();
+                    toastr.success('Marca excluída com sucesso', 'Excluir Marca');
+                    break;
+                case 400:
+                    console.log(xhr)
+                    toastr.error(xhr.responseText, 'Excluir Marca');
+                    break;
+                default:
+                    toastr.error('Não foi possível excluir a marca.<br>Verifique o log da aplicação.', 'Excluir Marca');
+            }
+        }
+        xhr.send();
+       
+    }
+</script>
+}

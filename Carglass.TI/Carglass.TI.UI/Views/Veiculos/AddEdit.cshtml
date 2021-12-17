@@ -1,0 +1,30 @@
+﻿@model Carglass.TI.UI.ViewModels.VeiculoAddEditVM
+
+<h2>@(Model.VehicleId == 0  ? "Adicionar" : "Editar") Veículo</h2>
+
+
+<form method="post">
+    <div class="mb-3">
+        <label for="txtNome" class="form-label">Name</label>
+        @Html.TextBoxFor(model => model.Name, new { @class = "form-control", autofocus = "" })
+        @Html.ValidationMessageFor(x => x.Name, null, new { @class = "invalid-estilo" })
+    </div>
+
+    @*<div class="mb-3">
+        <label for="txtPreco" class="form-label">Preco</label>
+        @Html.TextBoxFor(model => model.Preco, new { @class = "form-control", autofocus = "" })
+        @Html.ValidationMessageFor(x => x.Preco, null, new { @class = "invalid-estilo" })
+    </div>*@
+
+    <div class="mb-3">
+        <label for="ddlMarca" class="form-label">Marca</label>
+
+        @Html.DropDownListFor(x => x.VehicleBrandId, Model.Marcas,"Selecione", new { @class = "form-select" })
+        @Html.ValidationMessageFor(x => x.VehicleBrandId, null, new { @class = "invalid-estilo" })
+
+    </div>
+
+
+    <button type="submit" class="btn btn-outline-success">Salvar</button>
+    <a href="/Veiculos" class="btn btn-outline-warning">Cancelar</a>
+</form>

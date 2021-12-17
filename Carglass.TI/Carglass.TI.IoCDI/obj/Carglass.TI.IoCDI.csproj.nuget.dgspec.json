@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
+        "projectName": "Carglass.TI.Data",
+        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
+        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
+        "projectName": "Carglass.TI.Domain",
+        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
+        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
+        "projectName": "Carglass.TI.IoCDI",
+        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
+        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
+                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj"
+              },
+              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

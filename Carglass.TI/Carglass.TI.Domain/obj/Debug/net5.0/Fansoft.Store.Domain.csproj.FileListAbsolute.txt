@@ -1,0 +1,11 @@
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\bin\Debug\net5.0\Fansoft.Store.Domain.deps.json
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\bin\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\bin\Debug\net5.0\ref\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\bin\Debug\net5.0\Fansoft.Store.Domain.pdb
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.AssemblyInfoInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.AssemblyInfo.cs
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.csproj.CoreCompileInputs.cache
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\ref\Fansoft.Store.Domain.dll
+C:\MCSA WebApp\aula08\aula08\Fansoft.Store\Fansoft.Store.Domain\obj\Debug\net5.0\Fansoft.Store.Domain.pdb
