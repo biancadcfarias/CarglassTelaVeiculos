@@ -22,3 +22,15 @@ C:\Iago_Carglass\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Dom
 C:\Iago_Carglass\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.dll
 C:\Iago_Carglass\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\ref\Carglass.TI.Domain.dll
 C:\Iago_Carglass\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.pdb
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.deps.json
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.dll
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\ref\Carglass.TI.Domain.dll
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.pdb
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.csproj.AssemblyReference.cache
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.AssemblyInfoInputs.cache
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.AssemblyInfo.cs
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.dll
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\ref\Carglass.TI.Domain.dll
+C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.pdb

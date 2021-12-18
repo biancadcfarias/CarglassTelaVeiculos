@@ -64,8 +64,8 @@ namespace Carglass.TI.UI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddEdit(VeiculoAddEditVM model)
         {
-            if (ModelState.IsValid)
-            {
+            //if (ModelState.IsValid)
+            //{
                 if (model.VehicleId == 0)
                 {
                     var veiculo = new Veiculo();
@@ -89,10 +89,10 @@ namespace Carglass.TI.UI.Controllers
                 }
                 await _uow.CommitAsync();
                 return RedirectToAction("Index");
-            }
+            //}
 
-            model.Marcas = await carregarDDLMarcasAsync();
-            return View(model);
+            //model.Marcas = await carregarDDLMarcasAsync();
+            //return View(model);
 
         }
 
