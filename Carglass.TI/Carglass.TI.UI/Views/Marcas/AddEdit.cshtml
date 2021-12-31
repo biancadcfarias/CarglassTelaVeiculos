@@ -5,8 +5,8 @@
 <form method="post">
     <div class="mb-3">
         <label for="txtNome" class="form-label">Nome</label>
-        @Html.TextBoxFor(model => model.Name, new { @class = "form-control", autofocus = "" })
-        @Html.ValidationMessageFor(x => x.Name, null, new {@class="invalid-estilo" })
+        @Html.TextBoxFor(model => model.BrandName, new { @class = "form-control", autofocus = "" })
+        @Html.ValidationMessageFor(x => x.BrandName, null, new {@class="invalid-estilo" })
     </div>
 
     <button type="submit" class="btn btn-outline-success">Salvar</button>

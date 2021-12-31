@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {}
+    "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
+    "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
+        "projectUniqueName": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
         "projectName": "Carglass.TI.Data",
-        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
-        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\obj\\",
+        "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj",
+        "packagesPath": "C:\\Users\\bcfarias\\.nuget\\packages\\",
+        "outputPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bcfarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
-                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
+              "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+                "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
               }
             }
           }
@@ -68,21 +71,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+    "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
+        "projectUniqueName": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
         "projectName": "Carglass.TI.Domain",
-        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
-        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\obj\\",
+        "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj",
+        "packagesPath": "C:\\Users\\bcfarias\\.nuget\\packages\\",
+        "outputPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bcfarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -122,21 +128,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {
+    "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
+        "projectUniqueName": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
         "projectName": "Carglass.TI.IoCDI",
-        "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
-        "packagesPath": "C:\\Users\\bianc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\obj\\",
+        "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\Carglass.TI.IoCDI.csproj",
+        "packagesPath": "C:\\Users\\bcfarias\\.nuget\\packages\\",
+        "outputPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.IoCDI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\bianc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bcfarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,11 +159,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
-                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj"
+              "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj": {
+                "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Data\\Carglass.TI.Data.csproj"
               },
-              "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
-                "projectPath": "C:\\Users\\bianc\\source\\repos\\biancadcfarias\\TelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
+              "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj": {
+                "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.Domain\\Carglass.TI.Domain.csproj"
               }
             }
           }
@@ -189,7 +198,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

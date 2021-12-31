@@ -34,3 +34,15 @@ C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.
 C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.dll
 C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\ref\Carglass.TI.Domain.dll
 C:\Users\bianc\source\repos\biancadcfarias\TelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.pdb
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.deps.json
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.dll
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\ref\Carglass.TI.Domain.dll
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\bin\Debug\net5.0\Carglass.TI.Domain.pdb
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.csproj.AssemblyReference.cache
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.AssemblyInfoInputs.cache
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.AssemblyInfo.cs
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.csproj.CoreCompileInputs.cache
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.dll
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\ref\Carglass.TI.Domain.dll
+C:\DSV\CarglassTelaVeiculos\Carglass.TI\Carglass.TI.Domain\obj\Debug\net5.0\Carglass.TI.Domain.pdb

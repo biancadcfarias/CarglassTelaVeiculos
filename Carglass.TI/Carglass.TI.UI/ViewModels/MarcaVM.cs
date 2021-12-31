@@ -12,7 +12,7 @@ namespace Carglass.TI.UI.ViewModels
 
         [Required(ErrorMessage = "campo obrigatório")]
         [MinLength(2, ErrorMessage = "informe ao menos 2 caracteres")]
-        public string Name { get; set; }
+        public string BrandName { get; set; }
     }
 
 }

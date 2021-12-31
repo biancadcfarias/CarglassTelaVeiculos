@@ -19,7 +19,7 @@ namespace Carglass.TI.UI.Controllers
         private readonly IUnitOfWork _uow;
 
         public VeiculosController(
-            IVeiculoRepository veiculoRepository, 
+            IVeiculoRepository veiculoRepository,
             IMarcaRepository marcaRepository,
             IUnitOfWork uow)
         {
@@ -46,7 +46,7 @@ namespace Carglass.TI.UI.Controllers
                 model.VehicleId = data.VehicleId;
                 model.VehicleBrandId = data.VehicleTypeId;
                 model.VehicleTypeId = data.VehicleTypeId;
-                model.Name = data.Name;
+                model.VehicleName = data.Name;
                 model.Active = data.Active;
                 model.VehicleCode = data.VehicleCode;
 
@@ -56,7 +56,7 @@ namespace Carglass.TI.UI.Controllers
 
         private async Task<IEnumerable<SelectListItem>> carregarDDLMarcasAsync()
         {
-            
+
             var marcas = await _marcaRepository.GetAsync();
             return marcas.Select(x => new SelectListItem { Value = x.VehicleBrandId.ToString(), Text = x.Name });
         }
@@ -64,35 +64,34 @@ namespace Carglass.TI.UI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddEdit(VeiculoAddEditVM model)
         {
-            //if (ModelState.IsValid)
-            //{
+            if (ModelState.IsValid)
+            {
                 if (model.VehicleId == 0)
-                {
+                {   //31.12.21 - BCFARIAS -> TELA SALVANDO :D CHUMBEI OS CAMPOS NÃO MAPEADOS PARA NÃO ESTOURAR ERRO E CRACHAR. MAPEAR FUTURAMENTE!!
                     var veiculo = new Veiculo();
                     veiculo.VehicleBrandId = (int)model.VehicleBrandId;
-                    veiculo.VehicleTypeId = (int)model.VehicleTypeId;
-                    veiculo.Name = model.Name;
-                    veiculo.Active = (int)model.Active;
-                    veiculo.VehicleCode = model.VehicleCode;
+                    veiculo.VehicleTypeId = 1; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
+                    veiculo.Name = model.VehicleName;
+                    veiculo.Active = 1; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
+                    veiculo.VehicleCode = "1984651"; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
                     _veiculoRepository.Add(veiculo);
                 }
                 else
                 {
                     var veiculo = await _veiculoRepository.GetAsync(model.VehicleId);
                     veiculo.VehicleBrandId = (int)model.VehicleBrandId;
-                    veiculo.VehicleTypeId = (int)model.VehicleTypeId;
-                    veiculo.Name = model.Name;
-                    veiculo.Active = (int)model.Active;
-                    veiculo.VehicleCode = model.VehicleCode;
-                    veiculo.DataAlteracao = DateTime.Now;
+                    veiculo.VehicleTypeId = 1; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
+                    veiculo.Name = model.VehicleName;
+                    veiculo.Active = 1; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
+                    veiculo.VehicleCode = "1984651"; //VEHICLETYPEID Ñ ESTÁ MAPEADO ENTÃO RETORNA NULL E ESTOURA ERRO
                     _veiculoRepository.Update(veiculo);
                 }
                 await _uow.CommitAsync();
                 return RedirectToAction("Index");
-            //}
+            }
 
-            //model.Marcas = await carregarDDLMarcasAsync();
-            //return View(model);
+            model.Marcas = await carregarDDLMarcasAsync();
+            return View(model);
 
         }
 
