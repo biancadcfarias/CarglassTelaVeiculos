@@ -4,6 +4,7 @@
 
 
 <form method="post">
+    @Html.HiddenFor(model => model.VehicleId)
     <div class="mb-3">
         <label for="txtNome" class="form-label">Name</label>
         @Html.TextBoxFor(model => model.VehicleName, new { @class = "form-control", autofocus = "" })

@@ -61,7 +61,7 @@ namespace Carglass.TI.Data.EF.Maps
             builder
                 .HasOne(x => x.Marca)
                 .WithMany(x => x.Veiculos)
-                .HasForeignKey(x => x.VehicleTypeId)
+                .HasForeignKey(x => x.VehicleBrandId)
                 .OnDelete(DeleteBehavior.ClientNoAction);
 
 

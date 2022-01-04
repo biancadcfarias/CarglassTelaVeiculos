@@ -5758,7 +5758,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bcfarias\\.nuget\\packages\\": {},
+    "C:\\Users\\immoreira\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5767,14 +5767,14 @@
       "projectUniqueName": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.UI\\Carglass.TI.UI.csproj",
       "projectName": "Carglass.TI.UI",
       "projectPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.UI\\Carglass.TI.UI.csproj",
-      "packagesPath": "C:\\Users\\bcfarias\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\immoreira\\.nuget\\packages\\",
       "outputPath": "C:\\DSV\\CarglassTelaVeiculos\\Carglass.TI\\Carglass.TI.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bcfarias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\immoreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5827,7 +5827,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

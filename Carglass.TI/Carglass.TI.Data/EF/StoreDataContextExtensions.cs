@@ -31,8 +31,10 @@ namespace Carglass.TI.Data.EF
                     new Veiculo { VehicleId = 2,VehicleBrandId = 1,VehicleTypeId = 1 ,Name = "Kadett", Active=1, VehicleCode = "TEST01"},
                     new Veiculo { VehicleId = 3,VehicleBrandId = 2,VehicleTypeId = 1 ,Name = "Hillux", Active=1, VehicleCode = "TEST01"},
                     new Veiculo { VehicleId = 4,VehicleBrandId = 2,VehicleTypeId = 1 ,Name = "Corolla",Active=1, VehicleCode = "TEST01"},
-                    new Veiculo { VehicleId = 5,VehicleBrandId = 4,VehicleTypeId = 1 ,Name = "Fiesta", Active=1, VehicleCode = "TEST01"},
-                    new Veiculo { VehicleId = 6,VehicleBrandId = 4, VehicleTypeId= 1 ,Name = "Focus",  Active=1, VehicleCode = "TEST01"}
+                    new Veiculo { VehicleId = 5,VehicleBrandId = 3,VehicleTypeId = 1 ,Name = "A3",Active=1, VehicleCode = "TEST01"},
+                    new Veiculo { VehicleId = 6,VehicleBrandId = 3,VehicleTypeId = 1 ,Name = "A4",Active=1, VehicleCode = "TEST01"},
+                    new Veiculo { VehicleId = 7,VehicleBrandId = 4,VehicleTypeId = 1 ,Name = "Fiesta", Active=1, VehicleCode = "TEST01"},
+                    new Veiculo { VehicleId = 8,VehicleBrandId = 4, VehicleTypeId= 1 ,Name = "Focus",  Active=1, VehicleCode = "TEST01"}
                 );
         }
 

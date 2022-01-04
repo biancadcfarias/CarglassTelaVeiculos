@@ -34,7 +34,7 @@ namespace Carglass.TI.UI.Controllers
             ViewBag.Title = "Veiculos";
             return View(veiculos);
         }
-
+        [HttpGet]
         public async Task<IActionResult> AddEdit(int id)
         {
             VeiculoAddEditVM model = new VeiculoAddEditVM();
@@ -44,7 +44,7 @@ namespace Carglass.TI.UI.Controllers
             {
                 var data = await _veiculoRepository.GetAsync(id);
                 model.VehicleId = data.VehicleId;
-                model.VehicleBrandId = data.VehicleTypeId;
+                model.VehicleBrandId = data.VehicleBrandId;
                 model.VehicleTypeId = data.VehicleTypeId;
                 model.VehicleName = data.Name;
                 model.Active = data.Active;
@@ -64,7 +64,7 @@ namespace Carglass.TI.UI.Controllers
         [HttpPost]
         public async Task<IActionResult> AddEdit(VeiculoAddEditVM model)
         {
-            if (ModelState.IsValid)
+           // if (ModelState.IsValid)
             {
                 if (model.VehicleId == 0)
                 {   //31.12.21 - BCFARIAS -> TELA SALVANDO :D CHUMBEI OS CAMPOS NÃO MAPEADOS PARA NÃO ESTOURAR ERRO E CRACHAR. MAPEAR FUTURAMENTE!!
