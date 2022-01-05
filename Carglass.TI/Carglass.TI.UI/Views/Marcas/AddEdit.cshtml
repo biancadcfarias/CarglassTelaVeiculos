@@ -3,10 +3,11 @@
 <h2>@(Model == null  ? "Adicionar" : "Editar") Marca</h2>
 
 <form method="post">
+    @Html.HiddenFor(model => model.VehicleBrandId)
     <div class="mb-3">
-        <label for="txtNome" class="form-label">Nome</label>
+        <label for="txtNome" class="form-label">Name</label>
         @Html.TextBoxFor(model => model.BrandName, new { @class = "form-control", autofocus = "" })
-        @Html.ValidationMessageFor(x => x.BrandName, null, new {@class="invalid-estilo" })
+        @Html.ValidationMessageFor(x => x.BrandName, null, new { @class = "invalid-estilo" })
     </div>
 
     <button type="submit" class="btn btn-outline-success">Salvar</button>

@@ -37,6 +37,7 @@ namespace Carglass.TI.UI.Controllers
                 var data = await _marcaRepository.GetAsync(id);
                 model = new MarcaAddEditVM();
                 model.BrandName = data.Name;
+                model.VehicleBrandId = data.VehicleBrandId;
             }
             return View(model);
         }
